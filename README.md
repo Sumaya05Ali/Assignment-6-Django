@@ -24,7 +24,7 @@ This Django-based Property Management System provides an admin interface to mana
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/property-management-system.git
+git clone https://github.com/Sumaya05Ali/Assignment-6-Django.git
 cd Assignment-6-Django-main
 ```
 
