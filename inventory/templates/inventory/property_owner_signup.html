@@ -1,0 +1,11 @@
+<!-- inventory/templates/inventory/property_owner_signup.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Property Owner Sign-Up</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit</button>
+</form>
+{% endblock %}
