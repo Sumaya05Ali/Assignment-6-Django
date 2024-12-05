@@ -1,0 +1,8 @@
+# Virtual Environments
+venv/
+env/
+
+# Exclude __pycache__ folders within specific directories
+inventory_management/__pycache__/
+inventory/migrations/__pycache__/
+inventory/__pycache_/
