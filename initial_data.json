@@ -1,0 +1,93 @@
+[
+    {
+        "model": "inventory.location",
+        "pk": "USA",
+        "fields": {
+            "title": "United States",
+            "location_type": "country",
+            "country_code": "US",
+            "center": "POINT(-98.5795 39.8283)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"   
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "NY",
+        "fields": {
+            "title": "New York",
+            "location_type": "state",
+            "country_code": "US",
+            "state_abbr": "NY",
+            "center": "POINT(-74.0060 40.7128)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "FL",
+        "fields": {
+            "title": "Florida",
+            "location_type": "state",
+            "country_code": "US",
+            "state_abbr": "FL",
+            "center": "POINT(-81.5158 27.7663)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "TX",
+        "fields": {
+            "title": "Texas",
+            "location_type": "state",
+            "country_code": "US",
+            "state_abbr": "TX",
+            "center": "POINT(-99.9018 31.9686)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "CA",
+        "fields": {
+            "title": "California",
+            "location_type": "state",
+            "country_code": "US",
+            "state_abbr": "CA",
+            "center": "POINT(-119.4179 36.7783)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "BC",
+        "fields": {
+            "title": "British Columbia",
+            "location_type": "state",
+            "country_code": "CA",
+            "state_abbr": "BC",
+            "center": "POINT(-123.3656 48.4284)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    },
+    {
+        "model": "inventory.location",
+        "pk": "ON",
+        "fields": {
+            "title": "Ontario",
+            "location_type": "state",
+            "country_code": "CA",
+            "state_abbr": "ON",
+            "center": "POINT(-80.5270 51.2538)",
+            "created_at": "2024-01-01T00:00:00Z",  
+            "updated_at": "2024-01-01T00:00:00Z"  
+        }
+    }
+    
+]
